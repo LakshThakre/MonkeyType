@@ -2,7 +2,7 @@
 
 A sleek, minimalist typing speed test application inspired by Monkeytype. Challenge your typing speed and accuracy with a clean interface and detailed performance analytics.
 
-![Project Showcase](./public/showcase.png)
+![Project Showcase](./public/OGimage.png)
 
 ## ✨ Features
 
