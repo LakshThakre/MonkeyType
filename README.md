@@ -36,8 +36,8 @@ A sleek, minimalist typing speed test application inspired by Monkeytype. Challe
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/monkeytype-clone.git
-   cd monkeytype-clone
+   git clone https://github.com/your-username/MonkeyType.git
+   cd MonkeyType
    ```
 
 2. **Install dependencies**
